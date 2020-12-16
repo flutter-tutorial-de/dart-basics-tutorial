@@ -7,4 +7,4 @@ Ziel ist es, einem Lernwilligen das Programmieren von Grund auf beizubringen, am
 
 Es wird kein Programmierwissen vorausgesetzt, aber Computer-Grundwissen.
 
-Das Wissen wird im Wiki vermittelt.
+Das Wissen wird im [Wiki](https://github.com/flutter-tutorial-de/dart-basics-tutorial/wiki) vermittelt.
